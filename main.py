@@ -3,3 +3,5 @@ def hello():
 
 def goodbay():
 	print('goodbay')
+
+hello()	      
